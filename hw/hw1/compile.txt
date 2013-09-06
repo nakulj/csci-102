@@ -1,0 +1,2 @@
+$	g++ -g -Wall -o database database.cpp Game.cpp
+$	database

@@ -1,0 +1,4 @@
+Compile:
+g++ -g -o gameOfLife main.cpp Grid.cpp
+Run:
+gameOfLife

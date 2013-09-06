@@ -1,0 +1,7 @@
+Summary of ticket sales
+Student                93    $  186.00
+Faulty/Staff           31    $   93.00
+Alumni                 99    $  495.00
+UCLA people             1    $   20.00
+Others                 42    $  420.00
+Total                        $ 1214.00
